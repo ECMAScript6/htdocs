@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh_CN">
+ <head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="Keywords" content="micf,jingzheng,京正国际，孕婴童，北京孕婴童，广州孕婴童，京正孕婴童展，北京母婴展，广州母婴展">
+	<meta name="Description" content="">
+	<title>京正国际</title>
+ </head>
+ <body>
+	<div id="head">
+		<div class="inner group">
+			<h1 title="京正国际" class="logo_container">
+				<a href="#" title="京正国际" class="logo">
+					<span class="logo_ic"></span>
+					<span class="logo_text"></span>
+					<span class="logo_beta"></span>
+				</a>
+			</h1>
+		</div>
+	</div>
+	<div id="body">
+		<div class="main_hd"></div>
+		<div class="main_bd">
+			        <div class="bulletin_area group">
+						<a href="#" target="_blank" class="bulletin_ele bulletin_more r">查看更多<i class="ic ic_hook_right"></i></a>
+						<div class="bulletin_ele bulletin_title">公告</div>
+						<a title="更改通知" href="#" target="_blank" class="bulletin_ele"><i class="ic"></i>更改通知</a>
+						<a title="行为规范" href="#" target="_blank" class="bulletin_ele"><i class="ic"></i>行为规范</a>
+						<a title="更新通知" href="#" target="_blank" class="bulletin_ele"><i class="ic"></i>更新通知</a>
+					</div>
+		</div>
+	</div>
+ </body>
+</html>
